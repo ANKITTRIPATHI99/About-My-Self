@@ -9,7 +9,6 @@
                              Backend : NodeJS, Java, Python
                              Database : MYSql, MongoDB
                              Tools : Git, Github, Visual Studio IDE, Intellij IDE, Eclipse IDE, Excel, ppt, etc.
-
  ✔️ My Hobbies - Cricket, Travelling and Listening Music.
 
  ✔️ Dream @Faangm
