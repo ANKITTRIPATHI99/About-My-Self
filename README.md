@@ -1,4 +1,4 @@
-# About My Self, I am looking for jon opportunities, remote Job, free-lancing or part-time or any type of work:
+# About My Self, I am looking for Software Engineering or Data Engineering like Job Opportunities, Remote Job, free-lancing or part-time or any type of work:
 
 ✔️Hey,  My name is Ankit Tripathi, I am currently living in Delhi NCR, India. I have an experience of 2 years of experience in Full Stack Software Engineering . I have completed my  Bachelors of Technolgy(B.Tech) in Computer Science of Batch - 2024 from Krishna Engineering College Ghaziabad(Affil. to AKTU, Lucknow).
 
