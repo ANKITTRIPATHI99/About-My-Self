@@ -1,15 +1,11 @@
-# About-My-Self(Fresher- Open to work in Your Organization)
+# About My Self, I am looking for jon opportunities, remote jon , free-lancing or part-time or any type of work:
 
-✔️Hey, My name is Ankit Tripathi, Currently persuing B.Tech in Computer Science of Batch - 2024 from Krishna Engineering College Ghaziabad(Affil. to AKTU, Lucknow)🎓
- 
-✔️ I am a Full- Stack Devloper and proficient in Java Programming Language.
+✔️Hey,  My name is Ankit Tripathi, I am currently living in Delhi NCR, India. I have an experience of 2 years of experience in Full Stack Software Engineering . I have completed my  Bachelors of Technolgy(B.Tech) in Computer Science of Batch - 2024 from Krishna Engineering College Ghaziabad(Affil. to AKTU, Lucknow).
 
-✔️My Technical Skills are - Programming Languages : Java(Main Language), C#, Python, C (Basic)
-                             Frontend : HTML%, CSS3, JS, React.JS
-                             Backend : NodeJS, Java, Python
-                             Database : MYSql, MongoDB
-                             Tools : Git, Github, Visual Studio IDE, Intellij IDE, Eclipse IDE, Excel, ppt, etc.
+✔️My Technical Skills are - Programming Languages : C#, Python, Java, Javascript, Typescript.
+                             Frontend : HTML5, CSS3, Javascript, ReactJS, Angular.
+                             Backend : Asp.Net Core MVC, Asp.Net Web API, Entity framework.
+                             Database : PostgresSQL, Oracle, SSMS, Azure SQL.
+                             Tools : Git, Github, Bitbcket, MS Azure, ADF, AI Tools.
                              
- ✔️ My Hobbies - Cricket, Travelling and Listening Music.
 
- ✔️ Dream @Faangm
